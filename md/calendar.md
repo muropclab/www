@@ -3,7 +3,7 @@
 [Google カレンダー](https://calendar.google.com/calendar/embed?src=7egkhmisj8a9greidbui7un3ng%40group.calendar.google.com&ctz=Asia/Tokyo)
 
 ## 2016年07月
-- 2016年7月3日:第1回むろぱそらぼ勉強会
+- 2016年7月3日:[第0回むろぱそらぼ勉強会](studylog/2016/2016-07-03.md)
 
 
 ## 2016年06月
