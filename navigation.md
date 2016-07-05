@@ -21,3 +21,11 @@
   * [ニュース記事](md/links/news.md)
   * [室蘭関連](md/links/muroran.md)
 
+<!-- color is one of [ 'red', 'darkblue', 'green', 'orange', 'white', 'gray' ] -->
+[gimmick:ForkMeOnGitHub (position: 'right', color: 'orange') ](https://github.com/muropclab)
+
+<!-- 'bootstrap','amelia','cerulean','cosmo','cyborg','flatly','journal','readable','simplex','slate','spacelab','united','yeti' -->
+[gimmick:theme](readable)
+<!-- [gimmick:theme (inverse: true)](readable) -->
+
+[gimmick:themechooser](テーマを変える)
