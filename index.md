@@ -54,6 +54,7 @@ attention:
 ### 最近の活動(概要)
 最近の活動履歴です。詳細は[2016年度の活動履歴](md/sitelog/2016.md)をご覧ください。
 
+- 2016年8月16日：[Twitter](https://twitter.com/muropclab2016)を始めました。
 - 2016年8月11日：[第5回むろぱそらぼ勉強会](md/sitelog/2016/2016-08-14.md)の延期を決定
 - 2016年8月7日：[第4回むろぱそらぼ勉強会](md/sitelog/2016/2016-08-07.md)を実施
 - 2016年8月3日：[ブログ](md/blog/2016-08.md)始めました。
@@ -77,3 +78,6 @@ attention:
 以下のメールアドレスにご連絡ください。
 
 e-mail: syunsuke.shimizu@gmail.com
+
+またはツイッターの方にメッセージを送ってください。
+https://twitter.com/muropclab2016
