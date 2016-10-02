@@ -25,6 +25,7 @@
   * [Twitter](https://twitter.com/muropclab2016)
   - - - -
   * # 2016年
+  * [10月のブログ](md/blog/2016-10.md)
   * [9月のブログ](md/blog/2016-09.md)
   * [8月のブログ](md/blog/2016-08.md)
 
