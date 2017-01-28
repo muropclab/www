@@ -1,4 +1,5 @@
-MDwiki
-======
+# むろぱそらぼ
 
-See http://www.mdwiki.info/ for more documentation and details.
+むろぱそらぼの公式サイトを管理するリポジトリです。
+ついでに公式サイトをGithubPagesで公開しています。
+https://muropclab.github.io/www/
