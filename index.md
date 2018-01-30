@@ -71,8 +71,7 @@ note: 変更がある場合があるので、必ず参加前にご確認くだ�
 事前にご連絡をいただくか、勉強会などの当日にその場所に来ていただければOKです。
 
 ### 連絡先
-以下のメールアドレスにご連絡ください。
+以下の連絡先にご連絡ください。
+e-mail: muropclab@gmail.com
 e-mail: syunsuke.shimizu@gmail.com
-
-またはツイッターの方にメッセージを送ってください。
-https://twitter.com/muropclab2016
+twitter: https://twitter.com/muropclab2016
